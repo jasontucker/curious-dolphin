@@ -2,8 +2,8 @@
   "title": "Ridestories",
   "palette": "blue",
   "header": {
-    "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "title": "Ridestories",
+    "logo_img": "/images/ridestories logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
